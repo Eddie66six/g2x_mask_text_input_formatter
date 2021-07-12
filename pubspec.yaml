@@ -1,6 +1,7 @@
 name: g2x_mask_text_input_formatter
 description: A new Flutter package project.
 version: 0.0.1
+publish_to: none
 homepage:
 
 environment:
